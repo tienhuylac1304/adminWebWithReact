@@ -1,0 +1,19 @@
+.Dashboard .cards{
+    display:block;
+    text-align: center;
+    margin: 0 auto;
+    background-color: red;
+}
+.Dashboard .cards .card{
+    display: inline-block;
+    width: 200px;
+    margin-right: 10px;
+    text-align: center;
+    background-color: rgba(181, 245, 165, 0.986);
+    border: solid 1px;
+    border-radius: 10px;
+    box-shadow: 5px 5px 5px black;
+}
+.Dashboard .cards .card i{
+    font-size: 50px;
+}
